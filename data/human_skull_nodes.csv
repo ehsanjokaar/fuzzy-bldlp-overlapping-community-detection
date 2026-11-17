@@ -1,0 +1,36 @@
+node_id,node_name,anatomical_type
+1,Occipital,Bone
+2,Parietal left,Bone
+3,Parietal right,Bone
+4,Temporal left,Bone
+5,Temporal right,Bone
+6,Sphenoid,Bone
+7,Zygomatic left,Bone
+8,Zygomatic right,Bone
+9,Frontal,Bone
+10,Ethmoidal,Bone
+11,Nasal left,Bone
+12,Nasal right,Bone
+13,Maxilla left,Bone
+14,Maxilla right,Bone
+15,Lacrimal left,Bone
+16,Lacrimal right,Bone
+17,Palatine left,Bone
+18,Palatine right,Bone
+19,Nasal concha left,Bone
+20,Nasal concha right,Bone
+21,Vomer,Bone
+22,Malleus left,Bone
+23,Malleus right,Bone
+24,Incus left,Bone
+25,Incus right,Bone
+26,Stapes left,Bone
+27,Stapes right,Bone
+28,Mandible,Bone
+29,Hyoid bone,Bone
+30,Thyroid cartilage,Cartilage
+31,Arytenoid cartilage left,Cartilage
+32,Arytenoid cartilage right,Cartilage
+33,Cricoid cartilage,Cartilage
+34,Sternum,Bone
+35,Clavicle left,Bone

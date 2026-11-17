@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the Fuzzy BLDLP paper and the original BLDLP paper."
+title: "Fuzzy BLDLP: A Reusable Pipeline for Overlapping Community Detection"
+type: software
+authors:
+  - family-names: "Jokar"
+    given-names: "Ehsan"
+version: "1.0.0"
+repository-code: "https://github.com/ehsanjokaar/fuzzy-bldlp-overlapping-community-detection"
+references:
+  - type: article
+    authors:
+      - family-names: "Jokar"
+        given-names: "Ehsan"
+      - family-names: "Mosleh"
+        given-names: "Mohammad"
+      - family-names: "Kheyrandish"
+        given-names: "Mohammad"
+    title: "Overlapping community detection in complex networks using fuzzy theory, balanced link density, and label propagation"
+    journal: "Expert Systems"
+    year: 2021
+    doi: "10.1111/exsy.12921"
+  - type: article
+    authors:
+      - family-names: "Jokar"
+        given-names: "Ehsan"
+      - family-names: "Mosleh"
+        given-names: "Mohammad"
+    title: "Community detection in social networks based on improved label propagation algorithm and balanced link density"
+    journal: "Physics Letters A"
+    year: 2019
+    doi: "10.1016/j.physleta.2018.11.033"
+  - type: article
+    authors:
+      - family-names: "Esteve-Altava"
+        given-names: "Borja"
+      - family-names: "Diogo"
+        given-names: "Rui"
+      - family-names: "Smith"
+        given-names: "Christopher"
+      - family-names: "Boughner"
+        given-names: "Julia C."
+      - family-names: "Rasskin-Gutman"
+        given-names: "Diego"
+    title: "Anatomical networks reveal the musculoskeletal modularity of the human head"
+    journal: "Scientific Reports"
+    year: 2015
+    doi: "10.1038/srep08298"
